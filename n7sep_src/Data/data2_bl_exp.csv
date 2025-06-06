@@ -1,0 +1,1243 @@
+id,id_hh,wave,sex,adultchild,agegrp,region,imd_quintile,ethgrp
+2w1a1,2w1,1,Female,adult,56-70,North West,4,White
+3w1a1,3w1,1,Male,adult,36-55,East Midlands,1,White
+4w1a1,4w1,1,Female,adult,36-55,South East,3,White
+5w1a1,5w1,1,Male,adult,56-70,East Midlands,5,White
+6w1a1,6w1,1,Male,adult,>70,West Midlands,4,White
+8w1a1,8w1,1,Male,adult,56-70,North West,3,White
+9w1a1,9w1,1,Male,adult,>70,South West,5,White
+10w1a1,10w1,1,Female,adult,>70,West Midlands,4,White
+11w1a1,11w1,1,Female,adult,56-70,East of England,4,White
+12w1a1,12w1,1,Male,adult,56-70,West Midlands,3,White
+14w1a1,14w1,1,Male,adult,36-55,Yorkshire and The Humber,1,Black
+15w1a1,15w1,1,Female,adult,17-35,North West,3,White
+17w1a1,17w1,1,Female,adult,56-70,South West,3,White
+18w1a1,18w1,1,Female,adult,56-70,North West,1,White
+20w1a1,20w1,1,Female,adult,17-35,South East,3,White
+21w1a1,21w1,1,Female,adult,56-70,West Midlands,4,White
+22w1a1,22w1,1,Male,adult,56-70,North East,5,White
+23w1a1,23w1,1,Female,adult,56-70,Yorkshire and The Humber,2,White
+24w1a1,24w1,1,Female,adult,56-70,North East,2,White
+25w1a1,25w1,1,Male,adult,56-70,South East,5,White
+26w1a1,26w1,1,Female,adult,56-70,West Midlands,3,White
+27w1a1,27w1,1,Female,adult,56-70,South East,2,White
+28w1a1,28w1,1,Female,adult,17-35,Yorkshire and The Humber,1,Black
+29w1a1,29w1,1,Female,adult,36-55,Yorkshire and The Humber,2,White
+30w1a1,30w1,1,Female,adult,56-70,South West,5,White
+31w1a1,31w1,1,Female,adult,56-70,South West,5,White
+32w1a1,32w1,1,Male,adult,56-70,South East,3,White
+33w1a1,33w1,1,Female,adult,36-55,London,2,White
+34w1a1,34w1,1,Male,adult,17-35,North West,1,White
+35w1a1,35w1,1,Female,adult,56-70,West Midlands,5,White
+36w1a1,36w1,1,Male,adult,>70,East Midlands,5,White
+38w1a1,38w1,1,Female,adult,36-55,South West,1,White
+40w1a1,40w1,1,Female,adult,56-70,East Midlands,3,White
+41w1a1,41w1,1,Female,adult,17-35,London,2,White
+43w1a1,43w1,1,Male,adult,>70,South East,2,White
+44w1a1,44w1,1,Female,adult,56-70,East Midlands,5,White
+47w1a1,47w1,1,Female,adult,36-55,East of England,1,White
+48w1a1,48w1,1,Male,adult,>70,South West,2,White
+49w1a1,49w1,1,Female,adult,36-55,North East,3,White
+50w1a1,50w1,1,Male,adult,>70,East Midlands,5,White
+51w1a1,51w1,1,Female,adult,56-70,London,1,White
+53w1a1,53w1,1,Female,adult,17-35,South West,3,Asian
+54w1a1,54w1,1,Female,adult,36-55,East of England,3,White
+56w1a1,56w1,1,Male,adult,56-70,North East,2,White
+57w1a1,57w1,1,Female,adult,56-70,South East,4,White
+58w1a1,58w1,1,Female,adult,56-70,North West,5,White
+59w1a1,59w1,1,Male,adult,56-70,North West,5,White
+61w1a1,61w1,1,Female,adult,56-70,East of England,4,White
+62w1a1,62w1,1,Female,adult,56-70,East Midlands,4,White
+63w1a1,63w1,1,Female,adult,36-55,North West,1,White
+64w1a1,64w1,1,Male,adult,56-70,Yorkshire and The Humber,2,White
+65w1a1,65w1,1,Female,adult,56-70,North East,1,White
+66w1a1,66w1,1,Female,adult,>70,East of England,4,White
+67w1a1,67w1,1,Female,adult,56-70,North East,5,White
+68w1a1,68w1,1,Male,adult,>70,East of England,4,White
+69w1a1,69w1,1,Female,adult,36-55,East Midlands,2,White
+70w1a1,70w1,1,Female,adult,56-70,South West,2,White
+71w1a1,71w1,1,Female,adult,36-55,North West,5,White
+72w1a1,72w1,1,Female,adult,17-35,East Midlands,4,White
+73w1a1,73w1,1,Female,adult,36-55,South East,5,White
+74w1a1,74w1,1,Male,adult,36-55,South East,5,White
+75w1a1,75w1,1,Female,adult,56-70,South East,4,White
+76w1a1,76w1,1,Female,adult,56-70,East of England,5,White
+77w1a1,77w1,1,Male,adult,56-70,West Midlands,4,White
+78w1a1,78w1,1,Female,adult,36-55,South East,2,White
+79w1a1,79w1,1,Male,adult,56-70,East of England,2,White
+80w1a1,80w1,1,Female,adult,36-55,North West,4,White
+81w1a1,81w1,1,Male,adult,56-70,North East,3,White
+82w1a1,82w1,1,Male,adult,>70,London,5,White
+83w1a1,83w1,1,Female,adult,>70,London,5,White
+84w1a1,84w1,1,Male,adult,>70,South East,5,White
+85w1a1,85w1,1,Female,adult,17-35,West Midlands,1,White
+86w1a1,86w1,1,Male,adult,36-55,East Midlands,5,White
+87w1a1,87w1,1,Male,adult,>70,East Midlands,2,Mixed/ multiple ethnic background
+88w1a1,88w1,1,Female,adult,>70,South East,5,White
+90w1a1,90w1,1,Male,adult,56-70,Yorkshire and The Humber,2,White
+93w1a1,93w1,1,Male,adult,36-55,East of England,1,White
+94w1a1,94w1,1,Female,adult,56-70,East Midlands,4,White
+95w1a1,95w1,1,Male,adult,56-70,North West,4,White
+97w1a1,97w1,1,Male,adult,36-55,Yorkshire and The Humber,5,White
+99w1a1,99w1,1,Male,adult,56-70,South West,4,White
+100w1a1,100w1,1,Male,adult,>70,South East,4,White
+101w1a1,101w1,1,Female,adult,36-55,West Midlands,3,White
+102w1a1,102w1,1,Male,adult,56-70,West Midlands,4,White
+104w1a1,104w1,1,Female,adult,36-55,East of England,5,White
+105w1a1,105w1,1,Male,adult,56-70,West Midlands,3,White
+106w1a1,106w1,1,Female,adult,36-55,East Midlands,4,White
+107w1a1,107w1,1,Male,adult,>70,North East,1,White
+108w1a1,108w1,1,Female,adult,36-55,Yorkshire and The Humber,5,White
+110w1a1,110w1,1,Female,adult,56-70,Yorkshire and The Humber,3,White
+111w1a1,111w1,1,Male,adult,>70,Yorkshire and The Humber,3,White
+112w1a1,112w1,1,Female,adult,>70,South East,3,White
+113w1a1,113w1,1,Female,adult,36-55,London,4,White
+115w1a1,115w1,1,Male,adult,36-55,East Midlands,2,White
+116w1a1,116w1,1,Female,adult,56-70,Yorkshire and The Humber,2,White
+117w1a1,117w1,1,Male,adult,36-55,London,4,White
+118w1a1,118w1,1,Female,adult,36-55,South East,4,White
+119w1a1,119w1,1,Male,adult,56-70,South East,4,White
+120w1a1,120w1,1,Female,adult,56-70,South East,5,White
+121w1a1,121w1,1,Female,adult,36-55,London,3,Asian
+122w1a1,122w1,1,Female,adult,17-35,West Midlands,3,White
+123w1a1,123w1,1,Male,adult,>70,East of England,4,White
+124w1a1,124w1,1,Male,adult,56-70,East of England,3,White
+125w1a1,125w1,1,Male,adult,56-70,South East,2,White
+126w1a1,126w1,1,Male,adult,>70,West Midlands,4,White
+127w1a1,127w1,1,Female,adult,>70,West Midlands,4,White
+129w1a1,129w1,1,Female,adult,56-70,South West,2,White
+130w1a1,130w1,1,Female,adult,36-55,West Midlands,5,White
+131w1a1,131w1,1,Male,adult,56-70,North West,4,White
+132w1a1,132w1,1,Female,adult,56-70,West Midlands,1,White
+133w1a1,133w1,1,Female,adult,56-70,South West,3,White
+134w1a1,134w1,1,Male,adult,56-70,South West,3,White
+135w1a1,135w1,1,Male,adult,56-70,East Midlands,2,White
+136w1a1,136w1,1,Female,adult,17-35,North West,3,White
+137w1a1,137w1,1,Male,adult,17-35,London,1,White
+138w1a1,138w1,1,Female,adult,56-70,East Midlands,2,White
+139w1a1,139w1,1,Female,adult,>70,South East,5,White
+140w1a1,140w1,1,Female,adult,17-35,South East,2,White
+142w1a1,142w1,1,Male,adult,56-70,South West,5,White
+143w1a1,143w1,1,Female,adult,36-55,London,2,White
+144w1a1,144w1,1,Male,adult,36-55,East of England,5,White
+145w1a1,145w1,1,Female,adult,>70,South West,3,White
+146w1a1,146w1,1,Male,adult,36-55,North East,3,White
+147w1a1,147w1,1,Male,adult,17-35,London,2,White
+148w1a1,148w1,1,Male,adult,36-55,West Midlands,5,White
+149w1a1,149w1,1,Male,adult,56-70,East Midlands,3,White
+150w1a1,150w1,1,Female,adult,56-70,East Midlands,3,White
+151w1a1,151w1,1,Male,adult,56-70,South East,5,White
+152w1a1,152w1,1,Male,adult,>70,South East,3,White
+153w1a1,153w1,1,Female,adult,56-70,North East,4,White
+154w1a1,154w1,1,Female,adult,36-55,South West,3,White
+155w1a1,155w1,1,Female,adult,NA,West Midlands,4,White
+156w1a1,156w1,1,Male,adult,36-55,North West,1,White
+157w1a1,157w1,1,Female,adult,56-70,West Midlands,3,White
+159w1a1,159w1,1,Male,adult,56-70,East of England,5,White
+160w1a1,160w1,1,Female,adult,56-70,West Midlands,4,White
+161w1a1,161w1,1,Female,adult,56-70,East of England,5,White
+162w1a1,162w1,1,Unspecified or prefer not to say,adult,56-70,South East,4,White
+163w1a1,163w1,1,Male,adult,>70,Yorkshire and The Humber,4,White
+164w1a1,164w1,1,Female,adult,17-35,South West,3,White
+165w1a1,165w1,1,Female,adult,56-70,South West,4,White
+166w1a1,166w1,1,Female,adult,17-35,North West,2,White
+167w1a1,167w1,1,Female,adult,36-55,East of England,2,White
+168w1a1,168w1,1,Male,adult,>70,South East,3,White
+169w1a1,169w1,1,Female,adult,>70,South East,3,White
+170w1a1,170w1,1,Female,adult,17-35,South East,4,White
+171w1a1,171w1,1,Female,adult,56-70,East of England,5,White
+172w1a1,172w1,1,Female,adult,17-35,South West,5,Asian
+173w1a1,173w1,1,Female,adult,56-70,West Midlands,3,White
+174w1a1,174w1,1,Male,adult,56-70,West Midlands,3,White
+176w1a1,176w1,1,Male,adult,56-70,West Midlands,3,White
+177w1a1,177w1,1,Female,adult,56-70,West Midlands,3,White
+178w1a1,178w1,1,Male,adult,36-55,East of England,3,White
+179w1a1,179w1,1,Male,adult,>70,East of England,5,White
+180w1a1,180w1,1,Male,adult,56-70,South East,3,White
+181w1a1,181w1,1,Female,adult,56-70,North West,4,White
+182w1a1,182w1,1,Female,adult,56-70,West Midlands,5,White
+184w1a1,184w1,1,Male,adult,17-35,London,2,White
+185w1a1,185w1,1,Female,adult,56-70,South West,3,White
+186w1a1,186w1,1,Female,adult,36-55,East Midlands,5,Asian
+187w1a1,187w1,1,Female,adult,56-70,South West,3,White
+188w1a1,188w1,1,Female,adult,17-35,North West,3,White
+189w1a1,189w1,1,Female,adult,36-55,North West,3,White
+190w1a1,190w1,1,Female,adult,17-35,North West,3,White
+191w1a1,191w1,1,Female,adult,17-35,South East,1,White
+192w1a1,192w1,1,Male,adult,36-55,Yorkshire and The Humber,5,White
+193w1a1,193w1,1,Female,adult,36-55,North West,5,White
+197w1a1,197w1,1,Female,adult,>70,North East,3,White
+198w1a1,198w1,1,Female,adult,56-70,East of England,4,White
+199w1a1,199w1,1,Female,adult,56-70,South West,4,White
+200w1a1,200w1,1,Male,adult,56-70,East of England,4,White
+202w1a1,202w1,1,Female,adult,56-70,East of England,4,White
+204w1a1,204w1,1,Female,adult,56-70,Yorkshire and The Humber,4,White
+205w1a1,205w1,1,Male,adult,56-70,Yorkshire and The Humber,4,White
+207w1a1,207w1,1,Female,adult,>70,Yorkshire and The Humber,4,White
+208w1a1,208w1,1,Male,adult,36-55,Yorkshire and The Humber,5,White
+209w1a1,209w1,1,Female,adult,56-70,North West,4,White
+210w1a1,210w1,1,Male,adult,>70,West Midlands,3,White
+211w1a1,211w1,1,Female,adult,36-55,South West,4,White
+212w1a1,212w1,1,Female,adult,56-70,South West,4,White
+214w1a1,214w1,1,Female,adult,56-70,South East,4,White
+215w1a1,215w1,1,Female,adult,36-55,North West,3,White
+216w1a1,216w1,1,Male,adult,56-70,North East,2,White
+217w1a1,217w1,1,Male,adult,>70,South East,4,White
+218w1a1,218w1,1,Female,adult,56-70,Yorkshire and The Humber,4,White
+219w1a1,219w1,1,Female,adult,36-55,West Midlands,4,White
+220w1a1,220w1,1,Female,adult,56-70,South East,3,White
+221w1a1,221w1,1,Male,adult,36-55,North East,2,White
+223w1a1,223w1,1,Female,adult,56-70,West Midlands,2,White
+224w1a1,224w1,1,Female,adult,56-70,North West,5,White
+225w1a1,225w1,1,Male,adult,56-70,North East,2,White
+226w1a1,226w1,1,Male,adult,>70,South East,5,White
+227w1a1,227w1,1,Female,adult,36-55,East Midlands,4,White
+228w1a1,228w1,1,Female,adult,56-70,South East,4,White
+229w1a1,229w1,1,Female,adult,>70,East of England,3,White
+230w1a1,230w1,1,Female,adult,36-55,East of England,4,White
+231w1a1,231w1,1,Male,adult,56-70,West Midlands,5,White
+232w1a1,232w1,1,Female,adult,>70,South West,5,White
+233w1a1,233w1,1,Male,adult,56-70,South East,3,White
+235w1a1,235w1,1,Female,adult,36-55,North West,2,White
+237w1a1,237w1,1,Female,adult,>70,East Midlands,3,White
+238w1a1,238w1,1,Female,adult,56-70,North West,4,White
+239w1a1,239w1,1,Female,adult,56-70,London,3,White
+240w1a1,240w1,1,Female,adult,56-70,South East,4,White
+241w1a1,241w1,1,Female,adult,56-70,North West,3,White
+242w1a1,242w1,1,Female,adult,17-35,London,3,Asian
+243w1a1,243w1,1,Male,adult,17-35,North East,1,White
+244w1a1,244w1,1,Female,adult,56-70,West Midlands,1,White
+245w1a1,245w1,1,Female,adult,56-70,North East,2,White
+246w1a1,246w1,1,Male,adult,>70,Yorkshire and The Humber,2,White
+247w1a1,247w1,1,Male,adult,36-55,East of England,2,White
+248w1a1,248w1,1,Female,adult,36-55,West Midlands,4,White
+249w1a1,249w1,1,Female,adult,>70,South East,4,White
+250w1a1,250w1,1,Male,adult,56-70,West Midlands,4,White
+251w1a1,251w1,1,Male,adult,36-55,North West,2,White
+252w1a1,252w1,1,Female,adult,56-70,North West,2,White
+254w1a1,254w1,1,Female,adult,>70,South West,5,White
+255w1a1,255w1,1,Female,adult,36-55,North East,3,White
+256w1a1,256w1,1,Male,adult,56-70,North West,3,White
+257w1a1,257w1,1,Female,adult,36-55,North West,4,White
+258w1a1,258w1,1,Male,adult,56-70,South East,4,White
+259w1a1,259w1,1,Female,adult,>70,North West,3,White
+261w1a1,261w1,1,Female,adult,56-70,South West,5,White
+262w1a1,262w1,1,Female,adult,56-70,South East,5,White
+264w1a1,264w1,1,Male,adult,>70,South West,5,White
+265w1a1,265w1,1,Female,adult,36-55,North West,3,White
+266w1a1,266w1,1,Female,adult,36-55,West Midlands,4,White
+267w1a1,267w1,1,Male,adult,17-35,East of England,3,Mixed/ multiple ethnic background
+268w1a1,268w1,1,Male,adult,56-70,South West,3,White
+270w1a1,270w1,1,Female,adult,>70,East of England,5,White
+272w1a1,272w1,1,Female,adult,>70,East of England,3,White
+273w1a1,273w1,1,Male,adult,>70,East Midlands,3,White
+274w1a1,274w1,1,Female,adult,17-35,East of England,1,White
+275w1a1,275w1,1,Female,adult,56-70,East Midlands,5,White
+276w1a1,276w1,1,Female,adult,36-55,North West,5,White
+278w1a1,278w1,1,Female,adult,17-35,South West,4,White
+280w1a1,280w1,1,Male,adult,>70,West Midlands,2,White
+281w1a1,281w1,1,Male,adult,17-35,East Midlands,5,White
+284w1a1,284w1,1,Female,adult,56-70,Yorkshire and The Humber,4,White
+285w1a1,285w1,1,Female,adult,56-70,South East,3,White
+286w1a1,286w1,1,Female,adult,36-55,Yorkshire and The Humber,2,White
+287w1a1,287w1,1,Female,adult,56-70,Yorkshire and The Humber,5,White
+288w1a1,288w1,1,Male,adult,56-70,North West,5,White
+289w1a1,289w1,1,Male,adult,>70,South West,3,White
+290w1a1,290w1,1,Male,adult,56-70,South East,4,White
+291w1a1,291w1,1,Female,adult,>70,North West,5,White
+292w1a1,292w1,1,Female,adult,36-55,North East,2,White
+293w1a1,293w1,1,Female,adult,36-55,North East,4,White
+294w1a1,294w1,1,Male,adult,36-55,North East,4,White
+295w1a1,295w1,1,Female,adult,>70,London,5,White
+297w1a1,297w1,1,Female,adult,36-55,North West,1,White
+299w1a1,299w1,1,Female,adult,>70,South West,4,White
+300w1a1,300w1,1,Male,adult,36-55,East Midlands,5,White
+301w1a1,301w1,1,Female,adult,56-70,North East,1,White
+303w1a1,303w1,1,Female,adult,36-55,London,1,Black
+305w1a1,305w1,1,Female,adult,36-55,East Midlands,2,White
+306w1a1,306w1,1,Male,adult,36-55,East Midlands,2,White
+307w1a1,307w1,1,Female,adult,17-35,South East,5,White
+308w1a1,308w1,1,Female,adult,56-70,Yorkshire and The Humber,3,White
+309w1a1,309w1,1,Female,adult,>70,Yorkshire and The Humber,3,White
+310w1a1,310w1,1,Male,adult,17-35,West Midlands,4,White
+312w1a1,312w1,1,Female,adult,56-70,East of England,3,White
+313w1a1,313w1,1,Female,adult,36-55,East of England,4,White
+314w1a1,314w1,1,Male,adult,36-55,East of England,3,White
+315w1a1,315w1,1,Female,adult,56-70,East Midlands,5,White
+316w1a1,316w1,1,Male,adult,>70,NA,NA,White
+318w1a1,318w1,1,Female,adult,56-70,North West,5,White
+319w1a1,319w1,1,Male,adult,56-70,London,5,White
+320w1a1,320w1,1,Female,adult,36-55,West Midlands,4,White
+321w1a1,321w1,1,Female,adult,17-35,South West,5,White
+322w1a1,322w1,1,Female,adult,>70,South East,5,White
+323w1a1,323w1,1,Male,adult,56-70,North West,4,White
+324w1a1,324w1,1,Female,adult,56-70,South East,5,White
+325w1a1,325w1,1,Female,adult,36-55,West Midlands,2,White
+326w1a1,326w1,1,Male,adult,>70,West Midlands,5,White
+327w1a1,327w1,1,Female,adult,>70,South East,4,White
+329w1a1,329w1,1,Female,adult,56-70,North West,4,White
+330w1a1,330w1,1,Female,adult,36-55,South East,5,White
+331w1a1,331w1,1,Female,adult,36-55,North West,5,White
+332w1a1,332w1,1,Female,adult,36-55,North West,4,White
+333w1a1,333w1,1,Male,adult,>70,East Midlands,5,White
+334w1a1,334w1,1,Female,adult,56-70,South West,5,White
+335w1a1,335w1,1,Male,adult,>70,London,2,Any other ethnic group
+336w1a1,336w1,1,Female,adult,36-55,East Midlands,4,White
+337w1a1,337w1,1,Female,adult,36-55,North East,1,Asian
+339w1a1,339w1,1,Female,adult,17-35,London,1,White
+340w1a1,340w1,1,Female,adult,56-70,South East,2,White
+341w1a1,341w1,1,Male,adult,56-70,South West,5,White
+342w1a1,342w1,1,Male,adult,6-16,North West,5,White
+343w1a1,343w1,1,Female,adult,56-70,North East,2,White
+344w1a1,344w1,1,Female,adult,56-70,Yorkshire and The Humber,5,White
+345w1a1,345w1,1,Male,adult,56-70,Yorkshire and The Humber,5,White
+346w1a1,346w1,1,Male,adult,56-70,South East,5,Mixed/ multiple ethnic background
+347w1a1,347w1,1,Female,adult,56-70,West Midlands,2,White
+348w1a1,348w1,1,Male,adult,17-35,London,3,White
+351w1a1,351w1,1,Female,adult,36-55,West Midlands,2,White
+355w1a1,355w1,1,Female,adult,56-70,South West,5,White
+357w1a1,357w1,1,Female,adult,56-70,North West,3,White
+358w1a1,358w1,1,Male,adult,56-70,South West,5,White
+359w1a1,359w1,1,Male,adult,36-55,South East,5,White
+360w1a1,360w1,1,Male,adult,36-55,East Midlands,3,White
+363w1a1,363w1,1,Female,adult,36-55,London,3,White
+364w1a1,364w1,1,Female,adult,17-35,South West,4,White
+366w1a1,366w1,1,Female,adult,36-55,London,3,White
+367w1a1,367w1,1,Male,adult,36-55,East of England,3,White
+368w1a1,368w1,1,Female,adult,36-55,East Midlands,5,White
+369w1a1,369w1,1,Female,adult,56-70,East of England,4,White
+370w1a1,370w1,1,Male,adult,36-55,East of England,4,White
+371w1a1,371w1,1,Female,adult,>70,East of England,4,White
+375w1a1,375w1,1,Male,adult,36-55,North East,3,White
+376w1a1,376w1,1,Female,adult,>70,London,4,Black
+377w1a1,377w1,1,Male,adult,56-70,South East,5,White
+383w1a1,383w1,1,Female,adult,56-70,West Midlands,1,White
+384w1a1,384w1,1,Male,adult,56-70,West Midlands,1,White
+386w1a1,386w1,1,Male,adult,56-70,London,3,White
+387w1a1,387w1,1,Female,adult,56-70,East of England,5,White
+388w1a1,388w1,1,Male,adult,56-70,West Midlands,4,White
+395w1a1,395w1,1,Female,adult,>70,South East,5,White
+396w1a1,396w1,1,Female,adult,56-70,East of England,3,Asian
+398w1a1,398w1,1,Male,adult,36-55,London,2,White
+400w1a1,400w1,1,Female,adult,36-55,East Midlands,5,White
+401w1a1,401w1,1,Female,adult,36-55,West Midlands,3,White
+405w1a1,405w1,1,Female,adult,36-55,South East,5,White
+406w1a1,406w1,1,Female,adult,36-55,East Midlands,2,White
+407w1a1,407w1,1,Male,adult,56-70,South West,3,White
+42w1a1,42w1,1,Female,adult,17-35,South West,5,White
+304w1a1,304w1,1,Male,adult,17-35,South East,3,White
+213w1a1,213w1,1,Female,adult,36-55,North West,2,White
+271w1a1,271w1,1,Female,adult,>70,London,5,White
+158w1a1,158w1,1,Female,adult,36-55,Yorkshire and The Humber,4,White
+296w1a1,296w1,1,Female,adult,56-70,London,2,White
+103w1a1,103w1,1,Female,adult,>70,South West,4,White
+41w1c1,41w1,1,Female,child,<=5,London,2,White
+47w1c1,47w1,1,Female,child,6-16,East of England,1,White
+49w1c1,49w1,1,Female,child,6-16,North East,3,White
+69w1c1,69w1,1,Male,child,<=5,East Midlands,2,White
+71w1c1,71w1,1,Female,child,6-16,North West,5,White
+73w1c1,73w1,1,Female,child,6-16,South East,5,White
+79w1c1,79w1,1,Female,child,6-16,East of England,2,White
+85w1c1,85w1,1,Male,child,<=5,West Midlands,1,White
+108w1c1,108w1,1,Male,child,<=5,Yorkshire and The Humber,5,White
+115w1c1,115w1,1,Male,child,<=5,East Midlands,2,White
+136w1c1,136w1,1,Female,child,6-16,North West,3,Mixed/ multiple ethnic background
+146w1c1,146w1,1,Female,child,6-16,North East,3,White
+154w1c1,154w1,1,Female,child,6-16,South West,3,White
+166w1c1,166w1,1,Male,child,<=5,North West,2,White
+167w1c1,167w1,1,Male,child,6-16,East of England,2,White
+190w1c1,190w1,1,Female,child,6-16,North West,3,White
+215w1c1,215w1,1,Male,child,<=5,North West,3,White
+219w1c1,219w1,1,Male,child,6-16,West Midlands,4,White
+248w1c1,248w1,1,Male,child,6-16,West Midlands,4,White
+257w1c1,257w1,1,Female,child,6-16,North West,4,White
+265w1c1,265w1,1,Female,child,6-16,North West,3,White
+266w1c1,266w1,1,Female,child,6-16,West Midlands,4,White
+276w1c1,276w1,1,Male,child,6-16,North West,5,White
+278w1c1,278w1,1,Male,child,6-16,South West,4,White
+305w1c1,305w1,1,Female,child,6-16,East Midlands,2,White
+307w1c1,307w1,1,Female,child,6-16,South East,5,White
+320w1c1,320w1,1,Male,child,<=5,West Midlands,4,White
+331w1c1,331w1,1,Female,child,6-16,North West,5,White
+351w1c1,351w1,1,Female,child,6-16,West Midlands,2,White
+158w1c1,158w1,1,Male,child,6-16,Yorkshire and The Humber,4,White
+41w1c2,41w1,1,Male,child,<=5,London,2,White
+47w1c2,47w1,1,Female,child,6-16,East of England,1,White
+69w1c2,69w1,1,Female,child,<=5,East Midlands,2,White
+71w1c2,71w1,1,Male,child,6-16,North West,5,White
+115w1c2,115w1,1,Female,child,<=5,East Midlands,2,White
+167w1c2,167w1,1,Male,child,<=5,East of England,2,White
+219w1c2,219w1,1,Male,child,<=5,West Midlands,4,White
+248w1c2,248w1,1,Male,child,<=5,West Midlands,4,White
+257w1c2,257w1,1,Male,child,6-16,North West,4,White
+276w1c2,276w1,1,Male,child,6-16,North West,5,White
+278w1c2,278w1,1,Male,child,6-16,South West,4,White
+305w1c2,305w1,1,Female,child,6-16,East Midlands,2,White
+307w1c2,307w1,1,Female,child,6-16,South East,5,White
+331w1c2,331w1,1,Male,child,6-16,North West,5,White
+351w1c2,351w1,1,Male,child,6-16,West Midlands,2,White
+158w1c2,158w1,1,Female,child,<=5,Yorkshire and The Humber,4,White
+351w1c3,351w1,1,Female,child,<=5,West Midlands,2,White
+5w2a1,5w2,2,Male,adult,>70,London,5,White
+7w2a1,7w2,2,Female,adult,17-35,East Midlands,2,White
+8w2a1,8w2,2,Male,adult,36-55,East Midlands,2,White
+12w2a1,12w2,2,Male,adult,36-55,London,1,White
+13w2a1,13w2,2,Female,adult,17-35,London,3,Asian
+14w2a1,14w2,2,Female,adult,36-55,London,2,White
+15w2a1,15w2,2,Male,adult,56-70,South East,5,White
+16w2a1,16w2,2,Female,adult,36-55,North West,1,White
+17w2a1,17w2,2,Female,adult,36-55,East of England,5,White
+18w2a1,18w2,2,Male,adult,>70,London,4,White
+19w2a1,19w2,2,Female,adult,56-70,West Midlands,2,White
+22w2a1,22w2,2,Male,adult,36-55,West Midlands,3,White
+23w2a1,23w2,2,Male,adult,36-55,Yorkshire and The Humber,4,White
+26w2a1,26w2,2,Female,adult,36-55,South East,4,White
+27w2a1,27w2,2,Female,adult,56-70,West Midlands,5,White
+28w2a1,28w2,2,Male,adult,56-70,West Midlands,3,White
+30w2a1,30w2,2,Male,adult,>70,South East,5,White
+31w2a1,31w2,2,Female,adult,56-70,East of England,5,Asian
+33w2a1,33w2,2,Female,adult,56-70,South East,4,Black
+34w2a1,34w2,2,Female,adult,>70,London,3,White
+35w2a1,35w2,2,Male,adult,56-70,East of England,4,White
+36w2a1,36w2,2,Female,adult,17-35,East Midlands,4,White
+38w2a1,38w2,2,Female,adult,>70,East of England,5,White
+40w2a1,40w2,2,Male,adult,56-70,East of England,4,White
+41w2a1,41w2,2,Female,adult,>70,North West,2,White
+42w2a1,42w2,2,Male,adult,>70,London,4,White
+44w2a1,44w2,2,Female,adult,56-70,West Midlands,5,White
+45w2a1,45w2,2,Female,adult,36-55,South East,5,White
+46w2a1,46w2,2,Male,adult,56-70,London,2,White
+47w2a1,47w2,2,Female,adult,56-70,South West,4,White
+48w2a1,48w2,2,Female,adult,56-70,West Midlands,5,White
+49w2a1,49w2,2,Male,adult,56-70,London,4,White
+50w2a1,50w2,2,Female,adult,56-70,London,5,White
+51w2a1,51w2,2,Male,adult,56-70,South West,5,White
+52w2a1,52w2,2,Male,adult,56-70,East Midlands,4,White
+53w2a1,53w2,2,Male,adult,56-70,East Midlands,1,White
+54w2a1,54w2,2,Male,adult,>70,East Midlands,1,White
+55w2a1,55w2,2,Female,adult,36-55,East of England,5,Asian
+56w2a1,56w2,2,Male,adult,36-55,North West,2,White
+58w2a1,58w2,2,Female,adult,56-70,London,5,White
+59w2a1,59w2,2,Male,adult,>70,South East,5,White
+60w2a1,60w2,2,Female,adult,56-70,East Midlands,4,White
+61w2a1,61w2,2,Male,adult,56-70,South East,4,White
+64w2a1,64w2,2,Female,adult,>70,South East,4,White
+65w2a1,65w2,2,Male,adult,36-55,North East,2,White
+66w2a1,66w2,2,Female,adult,17-35,West Midlands,4,White
+68w2a1,68w2,2,Male,adult,>70,South East,5,White
+69w2a1,69w2,2,Male,adult,>70,East Midlands,5,White
+70w2a1,70w2,2,Female,adult,56-70,North East,3,White
+71w2a1,71w2,2,Male,adult,56-70,West Midlands,2,White
+72w2a1,72w2,2,Female,adult,56-70,North East,3,White
+73w2a1,73w2,2,Female,adult,56-70,London,4,White
+76w2a1,76w2,2,Male,adult,36-55,East of England,5,White
+77w2a1,77w2,2,Male,adult,>70,West Midlands,1,White
+80w2a1,80w2,2,Female,adult,56-70,South West,4,White
+81w2a1,81w2,2,Male,adult,>70,North East,5,White
+82w2a1,82w2,2,Female,adult,>70,North East,5,White
+83w2a1,83w2,2,Male,adult,56-70,East of England,4,White
+84w2a1,84w2,2,Female,adult,56-70,South West,1,White
+85w2a1,85w2,2,Male,adult,56-70,South East,3,White
+89w2a1,89w2,2,Female,adult,>70,East Midlands,4,White
+91w2a1,91w2,2,Female,adult,56-70,East Midlands,5,White
+92w2a1,92w2,2,Male,adult,56-70,East Midlands,5,White
+93w2a1,93w2,2,Male,adult,36-55,East Midlands,5,White
+94w2a1,94w2,2,Male,adult,>70,North West,1,White
+95w2a1,95w2,2,Female,adult,56-70,North East,4,White
+96w2a1,96w2,2,Female,adult,17-35,East Midlands,2,White
+98w2a1,98w2,2,Male,adult,56-70,North West,5,White
+99w2a1,99w2,2,Female,adult,56-70,East of England,2,White
+100w2a1,100w2,2,Female,adult,36-55,Yorkshire and The Humber,3,White
+101w2a1,101w2,2,Male,adult,36-55,Yorkshire and The Humber,3,Any other ethnic group
+103w2a1,103w2,2,Male,adult,56-70,London,2,White
+104w2a1,104w2,2,Female,adult,56-70,East of England,4,White
+105w2a1,105w2,2,Male,adult,36-55,South East,4,White
+106w2a1,106w2,2,Male,adult,56-70,East of England,4,White
+107w2a1,107w2,2,Female,adult,56-70,North West,2,White
+108w2a1,108w2,2,Male,adult,>70,East of England,5,White
+109w2a1,109w2,2,Male,adult,36-55,West Midlands,5,White
+111w2a1,111w2,2,Female,adult,17-35,South East,2,White
+115w2a1,115w2,2,Female,adult,17-35,South East,5,White
+116w2a1,116w2,2,Female,adult,56-70,South East,5,White
+118w2a1,118w2,2,Female,adult,36-55,North East,2,White
+119w2a1,119w2,2,Female,adult,36-55,East Midlands,2,White
+120w2a1,120w2,2,Female,adult,56-70,East Midlands,5,White
+121w2a1,121w2,2,Male,adult,>70,London,4,White
+122w2a1,122w2,2,Female,adult,36-55,South West,3,White
+123w2a1,123w2,2,Female,adult,36-55,East Midlands,1,White
+124w2a1,124w2,2,Male,adult,>70,South East,2,White
+126w2a1,126w2,2,Male,adult,56-70,South West,3,White
+127w2a1,127w2,2,Female,adult,>70,South West,3,White
+129w2a1,129w2,2,Female,adult,>70,North West,2,White
+130w2a1,130w2,2,Male,adult,36-55,South East,2,White
+131w2a1,131w2,2,Female,adult,36-55,South West,3,White
+134w2a1,134w2,2,Male,adult,17-35,Yorkshire and The Humber,1,Asian
+135w2a1,135w2,2,Female,adult,17-35,Yorkshire and The Humber,1,Asian
+137w2a1,137w2,2,Male,adult,56-70,North East,3,White
+138w2a1,138w2,2,Male,adult,56-70,East of England,4,White
+139w2a1,139w2,2,Female,adult,56-70,South East,3,White
+140w2a1,140w2,2,Female,adult,36-55,Yorkshire and The Humber,4,White
+142w2a1,142w2,2,Male,adult,56-70,North East,4,White
+145w2a1,145w2,2,Female,adult,56-70,South East,5,White
+146w2a1,146w2,2,Male,adult,56-70,Yorkshire and The Humber,5,White
+147w2a1,147w2,2,Female,adult,17-35,West Midlands,4,White
+148w2a1,148w2,2,Female,adult,>70,South East,3,White
+151w2a1,151w2,2,Female,adult,56-70,West Midlands,4,White
+152w2a1,152w2,2,Female,adult,36-55,South East,4,White
+154w2a1,154w2,2,Male,adult,36-55,London,5,White
+157w2a1,157w2,2,Female,adult,56-70,North West,2,White
+158w2a1,158w2,2,Female,adult,36-55,South West,4,White
+159w2a1,159w2,2,Female,adult,36-55,North West,3,White
+160w2a1,160w2,2,Female,adult,56-70,North West,2,White
+161w2a1,161w2,2,Female,adult,>70,East of England,5,White
+164w2a1,164w2,2,Female,adult,36-55,West Midlands,1,Asian
+165w2a1,165w2,2,Male,adult,36-55,West Midlands,1,Asian
+167w2a1,167w2,2,Male,adult,56-70,Yorkshire and The Humber,4,White
+168w2a1,168w2,2,Male,adult,>70,North East,4,White
+169w2a1,169w2,2,Male,adult,56-70,North West,3,White
+170w2a1,170w2,2,Female,adult,56-70,North East,4,White
+171w2a1,171w2,2,Male,adult,>70,East of England,4,White
+172w2a1,172w2,2,Male,adult,56-70,South West,5,White
+173w2a1,173w2,2,Female,adult,17-35,London,3,White
+175w2a1,175w2,2,Female,adult,>70,London,4,White
+176w2a1,176w2,2,Female,adult,56-70,North West,2,White
+178w2a1,178w2,2,Female,adult,56-70,South East,5,White
+179w2a1,179w2,2,Female,adult,56-70,South West,5,White
+180w2a1,180w2,2,Male,adult,56-70,South West,5,White
+181w2a1,181w2,2,Male,adult,>70,East Midlands,3,White
+182w2a1,182w2,2,Male,adult,36-55,North West,4,White
+184w2a1,184w2,2,Female,adult,36-55,Yorkshire and The Humber,4,White
+185w2a1,185w2,2,Male,adult,>70,South West,2,White
+186w2a1,186w2,2,Female,adult,36-55,London,2,Any other ethnic group
+187w2a1,187w2,2,Female,adult,56-70,South East,4,White
+188w2a1,188w2,2,Female,adult,56-70,East of England,4,White
+189w2a1,189w2,2,Male,adult,17-35,East of England,1,White
+190w2a1,190w2,2,Female,adult,17-35,East of England,1,White
+191w2a1,191w2,2,Female,adult,>70,East of England,4,White
+194w2a1,194w2,2,Female,adult,56-70,East of England,2,White
+195w2a1,195w2,2,Female,adult,17-35,East Midlands,3,White
+196w2a1,196w2,2,Male,adult,56-70,South East,3,White
+197w2a1,197w2,2,Female,adult,36-55,North East,1,White
+198w2a1,198w2,2,Female,adult,56-70,South East,2,White
+199w2a1,199w2,2,Female,adult,>70,North West,3,White
+200w2a1,200w2,2,Female,adult,56-70,London,1,Black
+201w2a1,201w2,2,Female,adult,56-70,London,3,White
+202w2a1,202w2,2,Male,adult,36-55,Yorkshire and The Humber,1,Asian
+203w2a1,203w2,2,Male,adult,36-55,Yorkshire and The Humber,4,White
+204w2a1,204w2,2,Female,adult,36-55,South East,5,White
+205w2a1,205w2,2,Male,adult,56-70,East Midlands,5,White
+206w2a1,206w2,2,Male,adult,56-70,West Midlands,4,White
+207w2a1,207w2,2,Male,adult,>70,East of England,4,White
+208w2a1,208w2,2,Male,adult,56-70,West Midlands,4,White
+209w2a1,209w2,2,Female,adult,56-70,East of England,5,White
+210w2a1,210w2,2,Female,adult,56-70,South East,4,White
+211w2a1,211w2,2,Female,adult,36-55,South East,5,White
+212w2a1,212w2,2,Male,adult,56-70,East of England,5,White
+213w2a1,213w2,2,Male,adult,56-70,South East,2,White
+214w2a1,214w2,2,Female,adult,36-55,South West,3,White
+215w2a1,215w2,2,Male,adult,>70,West Midlands,5,White
+218w2a1,218w2,2,Male,adult,>70,North West,4,White
+219w2a1,219w2,2,Female,adult,36-55,North East,5,White
+220w2a1,220w2,2,Female,adult,56-70,South East,3,White
+221w2a1,221w2,2,Female,adult,>70,South East,3,White
+222w2a1,222w2,2,Male,adult,17-35,South West,4,White
+223w2a1,223w2,2,Female,adult,56-70,North East,5,White
+224w2a1,224w2,2,Male,adult,17-35,South East,3,White
+225w2a1,225w2,2,Male,adult,56-70,East of England,5,White
+226w2a1,226w2,2,Male,adult,17-35,East Midlands,3,White
+227w2a1,227w2,2,Female,adult,17-35,South East,5,White
+228w2a1,228w2,2,Male,adult,56-70,East Midlands,4,White
+231w2a1,231w2,2,Male,adult,56-70,South East,5,White
+232w2a1,232w2,2,Female,adult,>70,East Midlands,4,White
+233w2a1,233w2,2,Female,adult,17-35,South West,2,White
+234w2a1,234w2,2,Female,adult,36-55,East Midlands,2,White
+235w2a1,235w2,2,Female,adult,>70,East Midlands,5,White
+236w2a1,236w2,2,Male,adult,56-70,South West,4,White
+239w2a1,239w2,2,Female,adult,17-35,South West,2,White
+240w2a1,240w2,2,Female,adult,56-70,North East,4,White
+242w2a1,242w2,2,Female,adult,36-55,London,2,White
+243w2a1,243w2,2,Male,adult,56-70,North East,4,White
+244w2a1,244w2,2,Male,adult,>70,North West,5,White
+246w2a1,246w2,2,Female,adult,56-70,Yorkshire and The Humber,4,Asian
+248w2a1,248w2,2,Male,adult,17-35,Yorkshire and The Humber,4,Asian
+249w2a1,249w2,2,Male,adult,>70,Yorkshire and The Humber,4,White
+250w2a1,250w2,2,Female,adult,56-70,East Midlands,4,White
+251w2a1,251w2,2,Female,adult,56-70,Yorkshire and The Humber,4,White
+252w2a1,252w2,2,Female,adult,56-70,South East,5,White
+253w2a1,253w2,2,Male,adult,36-55,Yorkshire and The Humber,2,White
+254w2a1,254w2,2,Male,adult,36-55,North East,1,Asian
+255w2a1,255w2,2,Male,adult,56-70,Yorkshire and The Humber,3,White
+256w2a1,256w2,2,Female,adult,36-55,South East,3,White
+257w2a1,257w2,2,Male,adult,36-55,South East,3,White
+259w2a1,259w2,2,Male,adult,56-70,South East,3,White
+260w2a1,260w2,2,Female,adult,56-70,West Midlands,5,White
+261w2a1,261w2,2,Male,adult,56-70,West Midlands,5,White
+262w2a1,262w2,2,Male,adult,56-70,London,5,White
+263w2a1,263w2,2,Male,adult,17-35,South East,5,White
+264w2a1,264w2,2,Male,adult,>70,London,3,Asian
+265w2a1,265w2,2,Female,adult,56-70,South West,3,White
+266w2a1,266w2,2,Female,adult,36-55,West Midlands,2,White
+268w2a1,268w2,2,Female,adult,>70,London,3,Asian
+269w2a1,269w2,2,Female,adult,>70,East of England,4,White
+271w2a1,271w2,2,Female,adult,36-55,Yorkshire and The Humber,5,White
+272w2a1,272w2,2,Male,adult,56-70,London,5,White
+273w2a1,273w2,2,Male,adult,56-70,North West,5,White
+274w2a1,274w2,2,Female,adult,>70,East of England,5,White
+275w2a1,275w2,2,Female,adult,56-70,East of England,4,White
+276w2a1,276w2,2,Female,adult,56-70,South West,4,White
+277w2a1,277w2,2,Female,adult,NA,South East,5,Any other ethnic group
+278w2a1,278w2,2,Female,adult,56-70,East of England,3,White
+279w2a1,279w2,2,Male,adult,56-70,London,3,White
+284w2a1,284w2,2,Female,adult,17-35,East Midlands,5,White
+285w2a1,285w2,2,Female,adult,>70,East of England,2,White
+286w2a1,286w2,2,Male,adult,56-70,West Midlands,4,White
+287w2a1,287w2,2,Female,adult,>70,North East,1,White
+288w2a1,288w2,2,Male,adult,56-70,North East,1,White
+291w2a1,291w2,2,Male,adult,56-70,South East,5,White
+293w2a1,293w2,2,Female,adult,36-55,South East,2,Any other ethnic group
+294w2a1,294w2,2,Male,adult,36-55,South East,2,White
+295w2a1,295w2,2,Female,adult,17-35,London,1,Prefer not to say
+298w2a1,298w2,2,Female,adult,56-70,East of England,5,White
+300w2a1,300w2,2,Female,adult,56-70,East of England,4,White
+301w2a1,301w2,2,Female,adult,17-35,London,4,White
+302w2a1,302w2,2,Female,adult,56-70,North West,5,White
+303w2a1,303w2,2,Female,adult,56-70,East of England,4,White
+304w2a1,304w2,2,Female,adult,17-35,South West,3,White
+305w2a1,305w2,2,Male,adult,>70,South West,5,White
+309w2a1,309w2,2,Male,adult,17-35,South East,5,Mixed/ multiple ethnic background
+310w2a1,310w2,2,Male,adult,17-35,North East,4,White
+311w2a1,311w2,2,Female,adult,>70,South East,1,White
+313w2a1,313w2,2,Female,adult,56-70,London,4,White
+314w2a1,314w2,2,Female,adult,56-70,West Midlands,4,White
+315w2a1,315w2,2,Female,adult,36-55,Yorkshire and The Humber,5,Asian
+316w2a1,316w2,2,Male,adult,17-35,East of England,4,White
+317w2a1,317w2,2,Male,adult,>70,South West,4,White
+318w2a1,318w2,2,Female,adult,>70,South West,4,White
+319w2a1,319w2,2,Male,adult,>70,East of England,2,White
+241w2a1,241w2,2,Female,adult,>70,South East,3,White
+74w2a1,74w2,2,Male,adult,56-70,East Midlands,5,White
+97w2a1,97w2,2,Male,adult,>70,London,2,White
+14w2c1,14w2,2,Male,child,6-16,London,2,White
+17w2c1,17w2,2,Male,child,6-16,East of England,5,White
+23w2c1,23w2,2,Male,child,6-16,Yorkshire and The Humber,4,White
+26w2c1,26w2,2,Male,child,<=5,South East,4,White
+100w2c1,100w2,2,Female,child,6-16,Yorkshire and The Humber,3,White
+115w2c1,115w2,2,Male,child,6-16,South East,5,White
+118w2c1,118w2,2,Male,child,6-16,North East,2,White
+140w2c1,140w2,2,Male,child,6-16,Yorkshire and The Humber,4,White
+184w2c1,184w2,2,Female,child,6-16,Yorkshire and The Humber,4,White
+186w2c1,186w2,2,Female,child,6-16,London,2,Any other ethnic group
+211w2c1,211w2,2,Female,child,6-16,South East,5,White
+222w2c1,222w2,2,Female,child,<=5,South West,4,White
+233w2c1,233w2,2,Female,child,6-16,South West,2,White
+271w2c1,271w2,2,Male,child,6-16,Yorkshire and The Humber,5,White
+293w2c1,293w2,2,Male,child,6-16,South East,2,Asian
+295w2c1,295w2,2,Male,child,<=5,London,1,Prefer not to say
+14w2c2,14w2,2,Male,child,6-16,London,2,White
+17w2c2,17w2,2,Male,child,6-16,East of England,5,White
+23w2c2,23w2,2,Male,child,6-16,Yorkshire and The Humber,4,White
+26w2c2,26w2,2,Male,child,<=5,South East,4,White
+100w2c2,100w2,2,Male,child,6-16,Yorkshire and The Humber,3,White
+115w2c2,115w2,2,Female,child,<=5,South East,5,White
+140w2c2,140w2,2,Male,child,6-16,Yorkshire and The Humber,4,White
+211w2c2,211w2,2,Female,child,6-16,South East,5,White
+26w2c3,26w2,2,Female,child,<=5,South East,4,White
+140w2c3,140w2,2,Male,child,6-16,Yorkshire and The Humber,4,White
+1w3a1,1w3,3,Male,adult,36-55,West Midlands,2,White
+5w3a1,5w3,3,Male,adult,56-70,West Midlands,5,White
+6w3a1,6w3,3,Male,adult,36-55,North West,5,White
+7w3a1,7w3,3,Female,adult,36-55,East of England,1,White
+10w3a1,10w3,3,Female,adult,>70,South East,4,White
+12w3a1,12w3,3,Male,adult,17-35,North East,2,White
+14w3a1,14w3,3,Male,adult,56-70,South East,1,White
+16w3a1,16w3,3,Male,adult,56-70,South East,5,White
+17w3a1,17w3,3,Female,adult,17-35,NA,NA,White
+18w3a1,18w3,3,Female,adult,56-70,South East,3,White
+21w3a1,21w3,3,Female,adult,56-70,South East,4,White
+22w3a1,22w3,3,Male,adult,56-70,East of England,2,White
+24w3a1,24w3,3,Female,adult,17-35,West Midlands,1,White
+25w3a1,25w3,3,Male,adult,56-70,Yorkshire and The Humber,3,White
+27w3a1,27w3,3,Female,adult,56-70,North West,5,White
+28w3a1,28w3,3,Female,adult,17-35,South East,4,White
+29w3a1,29w3,3,Female,adult,36-55,South East,4,White
+31w3a1,31w3,3,Male,adult,56-70,London,2,White
+32w3a1,32w3,3,Female,adult,56-70,West Midlands,5,White
+33w3a1,33w3,3,Female,adult,17-35,West Midlands,2,White
+34w3a1,34w3,3,Male,adult,56-70,East of England,3,White
+35w3a1,35w3,3,Female,adult,36-55,East of England,4,Asian
+38w3a1,38w3,3,Female,adult,56-70,South East,5,White
+39w3a1,39w3,3,Male,adult,>70,South West,5,White
+40w3a1,40w3,3,Female,adult,17-35,South East,4,White
+41w3a1,41w3,3,Female,adult,56-70,Yorkshire and The Humber,1,White
+43w3a1,43w3,3,Male,adult,56-70,East of England,5,White
+44w3a1,44w3,3,Female,adult,36-55,East of England,3,White
+45w3a1,45w3,3,Female,adult,36-55,South West,4,White
+46w3a1,46w3,3,Female,adult,56-70,South East,3,White
+47w3a1,47w3,3,Male,adult,56-70,East of England,4,White
+48w3a1,48w3,3,Male,adult,>70,East of England,4,White
+49w3a1,49w3,3,Female,adult,36-55,East of England,2,White
+50w3a1,50w3,3,Male,adult,56-70,East of England,1,White
+52w3a1,52w3,3,Female,adult,56-70,East of England,5,White
+54w3a1,54w3,3,Female,adult,36-55,North East,1,White
+55w3a1,55w3,3,Male,adult,>70,East Midlands,4,White
+56w3a1,56w3,3,Female,adult,56-70,East of England,2,White
+57w3a1,57w3,3,Male,adult,>70,South West,4,White
+58w3a1,58w3,3,Female,adult,56-70,London,1,White
+59w3a1,59w3,3,Female,adult,17-35,West Midlands,5,Asian
+60w3a1,60w3,3,Female,adult,56-70,East Midlands,4,White
+61w3a1,61w3,3,Female,adult,56-70,Yorkshire and The Humber,1,White
+62w3a1,62w3,3,Male,adult,56-70,South West,5,White
+63w3a1,63w3,3,Male,adult,56-70,South East,3,White
+66w3a1,66w3,3,Female,adult,56-70,South East,4,White
+67w3a1,67w3,3,Female,adult,>70,South West,4,White
+68w3a1,68w3,3,Female,adult,17-35,East Midlands,1,White
+70w3a1,70w3,3,Female,adult,56-70,North West,4,White
+71w3a1,71w3,3,Male,adult,56-70,Yorkshire and The Humber,1,White
+72w3a1,72w3,3,Male,adult,56-70,East of England,4,White
+73w3a1,73w3,3,Female,adult,>70,East of England,2,White
+74w3a1,74w3,3,Female,adult,56-70,North East,5,White
+75w3a1,75w3,3,Female,adult,36-55,West Midlands,3,White
+76w3a1,76w3,3,Male,adult,36-55,West Midlands,3,White
+78w3a1,78w3,3,Male,adult,56-70,South East,2,White
+79w3a1,79w3,3,Male,adult,NA,North West,3,White
+80w3a1,80w3,3,Female,adult,17-35,Yorkshire and The Humber,3,White
+81w3a1,81w3,3,Female,adult,NA,North West,3,White
+82w3a1,82w3,3,Male,adult,36-55,North West,3,White
+83w3a1,83w3,3,Female,adult,17-35,South West,2,White
+84w3a1,84w3,3,Male,adult,>70,North East,4,White
+85w3a1,85w3,3,Female,adult,17-35,South East,3,Asian
+86w3a1,86w3,3,Female,adult,36-55,East of England,3,White
+87w3a1,87w3,3,Female,adult,17-35,East Midlands,4,White
+88w3a1,88w3,3,Male,adult,56-70,Yorkshire and The Humber,5,White
+89w3a1,89w3,3,Male,adult,56-70,East Midlands,3,White
+90w3a1,90w3,3,Female,adult,36-55,North West,3,White
+91w3a1,91w3,3,Female,adult,36-55,South West,4,White
+93w3a1,93w3,3,Female,adult,>70,East Midlands,3,White
+94w3a1,94w3,3,Female,adult,>70,London,5,White
+95w3a1,95w3,3,Female,adult,>70,South East,4,White
+97w3a1,97w3,3,Male,adult,17-35,South East,4,White
+98w3a1,98w3,3,Male,adult,>70,Yorkshire and The Humber,5,White
+99w3a1,99w3,3,Male,adult,56-70,South East,5,White
+100w3a1,100w3,3,Female,adult,>70,Yorkshire and The Humber,5,White
+102w3a1,102w3,3,Female,adult,17-35,South West,2,White
+104w3a1,104w3,3,Female,adult,56-70,South East,4,White
+106w3a1,106w3,3,Female,adult,>70,East of England,2,White
+107w3a1,107w3,3,Female,adult,36-55,North West,4,White
+108w3a1,108w3,3,Female,adult,17-35,London,1,Asian
+109w3a1,109w3,3,Female,adult,56-70,North West,4,White
+110w3a1,110w3,3,Male,adult,56-70,South East,4,White
+111w3a1,111w3,3,Male,adult,56-70,South East,3,White
+112w3a1,112w3,3,Male,adult,>70,West Midlands,4,White
+113w3a1,113w3,3,Male,adult,56-70,South West,2,White
+114w3a1,114w3,3,Female,adult,56-70,London,2,White
+115w3a1,115w3,3,Female,adult,36-55,South West,1,White
+116w3a1,116w3,3,Female,adult,>70,East of England,4,White
+117w3a1,117w3,3,Female,adult,56-70,South West,5,White
+119w3a1,119w3,3,Male,adult,>70,South East,3,White
+120w3a1,120w3,3,Female,adult,>70,South East,3,White
+121w3a1,121w3,3,Female,adult,56-70,North West,1,White
+122w3a1,122w3,3,Female,adult,56-70,East of England,4,White
+124w3a1,124w3,3,Male,adult,56-70,East of England,3,White
+125w3a1,125w3,3,Male,adult,17-35,East Midlands,3,White
+126w3a1,126w3,3,Female,adult,56-70,East Midlands,3,White
+127w3a1,127w3,3,Female,adult,17-35,East Midlands,3,White
+128w3a1,128w3,3,Male,adult,56-70,North West,3,White
+129w3a1,129w3,3,Male,adult,56-70,West Midlands,3,White
+131w3a1,131w3,3,Female,adult,56-70,East Midlands,4,White
+132w3a1,132w3,3,Female,adult,17-35,South East,3,White
+134w3a1,134w3,3,Male,adult,56-70,Yorkshire and The Humber,1,White
+135w3a1,135w3,3,Male,adult,>70,North West,3,White
+136w3a1,136w3,3,Female,adult,56-70,South West,2,White
+137w3a1,137w3,3,Female,adult,56-70,South East,4,White
+138w3a1,138w3,3,Female,adult,36-55,East of England,2,White
+139w3a1,139w3,3,Female,adult,>70,North West,4,White
+140w3a1,140w3,3,Female,adult,36-55,North West,4,White
+141w3a1,141w3,3,Male,adult,56-70,North East,5,White
+143w3a1,143w3,3,Female,adult,36-55,North East,4,Prefer not to say
+144w3a1,144w3,3,Female,adult,56-70,South East,4,White
+145w3a1,145w3,3,Male,adult,56-70,North East,4,White
+146w3a1,146w3,3,Female,adult,36-55,East of England,4,White
+147w3a1,147w3,3,Male,adult,17-35,East of England,4,White
+148w3a1,148w3,3,Male,adult,56-70,East of England,5,White
+150w3a1,150w3,3,Female,adult,56-70,South East,5,White
+154w3a1,154w3,3,Male,adult,36-55,South East,4,Asian
+155w3a1,155w3,3,Female,adult,17-35,South East,4,Asian
+156w3a1,156w3,3,Female,adult,56-70,West Midlands,4,White
+159w3a1,159w3,3,Female,adult,36-55,North East,2,White
+160w3a1,160w3,3,Female,adult,36-55,Yorkshire and The Humber,2,White
+162w3a1,162w3,3,Male,adult,56-70,North East,3,White
+164w3a1,164w3,3,Female,adult,36-55,East Midlands,4,White
+165w3a1,165w3,3,Female,adult,36-55,NA,NA,White
+166w3a1,166w3,3,Female,adult,36-55,West Midlands,5,White
+167w3a1,167w3,3,Male,adult,>70,East of England,5,White
+173w3a1,173w3,3,Female,adult,56-70,North East,5,White
+174w3a1,174w3,3,Female,adult,17-35,South East,2,White
+175w3a1,175w3,3,Female,adult,36-55,London,2,White
+176w3a1,176w3,3,Female,adult,17-35,North West,5,White
+177w3a1,177w3,3,Male,adult,56-70,North West,5,White
+178w3a1,178w3,3,Female,adult,17-35,London,2,White
+179w3a1,179w3,3,Female,adult,36-55,South East,4,White
+181w3a1,181w3,3,Male,adult,56-70,South East,5,White
+182w3a1,182w3,3,Female,adult,56-70,South East,2,White
+184w3a1,184w3,3,Female,adult,17-35,South East,2,White
+187w3a1,187w3,3,Male,adult,17-35,East of England,3,White
+188w3a1,188w3,3,Male,adult,>70,East Midlands,4,White
+189w3a1,189w3,3,Female,adult,56-70,North East,3,White
+190w3a1,190w3,3,Male,adult,>70,South East,3,White
+192w3a1,192w3,3,Male,adult,36-55,South West,4,White
+195w3a1,195w3,3,Female,adult,56-70,North West,3,White
+196w3a1,196w3,3,Male,adult,36-55,London,1,White
+198w3a1,198w3,3,Female,adult,36-55,London,4,White
+199w3a1,199w3,3,Male,adult,56-70,South East,4,White
+200w3a1,200w3,3,Male,adult,>70,London,4,White
+201w3a1,201w3,3,Male,adult,56-70,East of England,5,White
+203w3a1,203w3,3,Female,adult,>70,West Midlands,4,White
+204w3a1,204w3,3,Female,adult,56-70,South East,3,White
+205w3a1,205w3,3,Female,adult,36-55,West Midlands,5,White
+206w3a1,206w3,3,Female,adult,36-55,East Midlands,2,White
+207w3a1,207w3,3,Female,adult,36-55,East of England,3,White
+209w3a1,209w3,3,Female,adult,36-55,Yorkshire and The Humber,2,White
+210w3a1,210w3,3,Female,adult,56-70,South West,2,White
+212w3a1,212w3,3,Female,adult,36-55,London,1,Asian
+213w3a1,213w3,3,Female,adult,36-55,South West,2,White
+214w3a1,214w3,3,Female,adult,36-55,London,3,White
+216w3a1,216w3,3,Male,adult,56-70,West Midlands,4,White
+217w3a1,217w3,3,Female,adult,36-55,West Midlands,1,Asian
+218w3a1,218w3,3,Female,adult,17-35,North West,4,White
+219w3a1,219w3,3,Female,adult,56-70,West Midlands,4,White
+220w3a1,220w3,3,Male,adult,>70,London,3,White
+221w3a1,221w3,3,Female,adult,56-70,South West,5,White
+224w3a1,224w3,3,Female,adult,>70,West Midlands,5,White
+225w3a1,225w3,3,Male,adult,>70,West Midlands,5,White
+226w3a1,226w3,3,Male,adult,17-35,North East,1,White
+227w3a1,227w3,3,Male,adult,56-70,East of England,5,White
+228w3a1,228w3,3,Male,adult,>70,East Midlands,4,White
+229w3a1,229w3,3,Male,adult,>70,South West,3,White
+232w3a1,232w3,3,Male,adult,56-70,North West,3,Any other ethnic group
+233w3a1,233w3,3,Male,adult,56-70,East Midlands,1,White
+234w3a1,234w3,3,Female,adult,56-70,North East,2,White
+237w3a1,237w3,3,Male,adult,>70,South East,4,White
+238w3a1,238w3,3,Female,adult,56-70,Yorkshire and The Humber,5,White
+239w3a1,239w3,3,Male,adult,36-55,East of England,3,White
+240w3a1,240w3,3,Male,adult,>70,London,3,White
+243w3a1,243w3,3,Female,adult,36-55,North West,3,White
+244w3a1,244w3,3,Female,adult,>70,East of England,5,White
+246w3a1,246w3,3,Female,adult,17-35,West Midlands,1,Asian
+248w3a1,248w3,3,Male,adult,56-70,South West,2,White
+249w3a1,249w3,3,Female,adult,56-70,North West,1,White
+250w3a1,250w3,3,Male,adult,56-70,North West,1,White
+252w3a1,252w3,3,Male,adult,>70,Yorkshire and The Humber,2,White
+253w3a1,253w3,3,Male,adult,>70,London,2,Asian
+255w3a1,255w3,3,Female,adult,36-55,London,2,Any other ethnic group
+256w3a1,256w3,3,Female,adult,17-35,South East,3,White
+257w3a1,257w3,3,Male,adult,56-70,South East,3,White
+258w3a1,258w3,3,Male,adult,36-55,North East,1,White
+259w3a1,259w3,3,Female,adult,56-70,East Midlands,3,White
+260w3a1,260w3,3,Female,adult,17-35,London,5,White
+261w3a1,261w3,3,Male,adult,56-70,North West,4,White
+264w3a1,264w3,3,Female,adult,56-70,East of England,2,White
+265w3a1,265w3,3,Female,adult,17-35,East of England,1,White
+267w3a1,267w3,3,Female,adult,56-70,South East,4,White
+268w3a1,268w3,3,Male,adult,56-70,East Midlands,5,White
+269w3a1,269w3,3,Female,adult,56-70,South East,5,White
+271w3a1,271w3,3,Female,adult,56-70,South East,3,White
+272w3a1,272w3,3,Female,adult,36-55,South East,5,White
+273w3a1,273w3,3,Male,adult,>70,Yorkshire and The Humber,4,White
+274w3a1,274w3,3,Female,adult,56-70,North West,4,White
+276w3a1,276w3,3,Female,adult,56-70,East Midlands,5,White
+277w3a1,277w3,3,Female,adult,56-70,East of England,5,White
+278w3a1,278w3,3,Male,adult,>70,North West,5,White
+279w3a1,279w3,3,Female,adult,17-35,London,4,Mixed/ multiple ethnic background
+280w3a1,280w3,3,Female,adult,56-70,South West,2,White
+281w3a1,281w3,3,Male,adult,6-16,North East,1,Asian
+282w3a1,282w3,3,Female,adult,>70,East of England,1,White
+284w3a1,284w3,3,Female,adult,>70,East of England,2,White
+285w3a1,285w3,3,Male,adult,56-70,North West,3,White
+286w3a1,286w3,3,Male,adult,>70,East Midlands,4,White
+287w3a1,287w3,3,Female,adult,36-55,Yorkshire and The Humber,5,Mixed/ multiple ethnic background
+288w3a1,288w3,3,Female,adult,56-70,North West,3,White
+289w3a1,289w3,3,Male,adult,>70,Yorkshire and The Humber,1,White
+291w3a1,291w3,3,Female,adult,56-70,South East,3,White
+292w3a1,292w3,3,Male,adult,56-70,South East,3,White
+293w3a1,293w3,3,Female,adult,>70,London,3,White
+294w3a1,294w3,3,Female,adult,56-70,NA,NA,White
+297w3a1,297w3,3,Male,adult,>70,Yorkshire and The Humber,4,White
+298w3a1,298w3,3,Male,adult,36-55,South East,5,White
+299w3a1,299w3,3,Male,adult,56-70,South East,4,White
+300w3a1,300w3,3,Male,adult,56-70,North West,3,White
+301w3a1,301w3,3,Female,adult,56-70,North West,3,White
+302w3a1,302w3,3,Male,adult,17-35,East of England,1,Mixed/ multiple ethnic background
+304w3a1,304w3,3,Female,adult,>70,East Midlands,4,White
+305w3a1,305w3,3,Male,adult,36-55,West Midlands,3,White
+307w3a1,307w3,3,Female,adult,36-55,North West,4,White
+308w3a1,308w3,3,Male,adult,>70,East Midlands,5,White
+309w3a1,309w3,3,Female,adult,36-55,North East,2,White
+310w3a1,310w3,3,Female,adult,17-35,East Midlands,5,Asian
+311w3a1,311w3,3,Male,adult,>70,East of England,2,White
+313w3a1,313w3,3,Male,adult,36-55,Yorkshire and The Humber,2,White
+314w3a1,314w3,3,Male,adult,>70,South West,5,White
+315w3a1,315w3,3,Female,adult,>70,South West,5,White
+316w3a1,316w3,3,Male,adult,56-70,London,3,Prefer not to say
+317w3a1,317w3,3,Male,adult,56-70,London,5,White
+318w3a1,318w3,3,Female,adult,56-70,South West,3,White
+319w3a1,319w3,3,Female,adult,56-70,North East,5,White
+323w3a1,323w3,3,Female,adult,36-55,London,1,White
+324w3a1,324w3,3,Female,adult,36-55,London,2,Black
+325w3a1,325w3,3,Female,adult,36-55,North West,2,White
+326w3a1,326w3,3,Female,adult,>70,East Midlands,5,White
+327w3a1,327w3,3,Female,adult,>70,South West,5,White
+328w3a1,328w3,3,Female,adult,17-35,Yorkshire and The Humber,2,White
+331w3a1,331w3,3,Female,adult,36-55,East Midlands,1,White
+333w3a1,333w3,3,Female,adult,56-70,South East,5,White
+223w3a1,223w3,3,Female,adult,>70,East of England,5,White
+191w3a1,191w3,3,Male,adult,56-70,South West,1,White
+105w3a1,105w3,3,Female,adult,56-70,London,5,White
+19w3a1,19w3,3,Male,adult,>70,North West,5,White
+275w3a1,275w3,3,Female,adult,>70,East of England,2,White
+194w3a1,194w3,3,Female,adult,>70,North East,3,White
+17w3c1,17w3,3,Female,child,6-16,NA,NA,White
+24w3c1,24w3,3,Female,child,6-16,West Midlands,1,White
+29w3c1,29w3,3,Female,child,6-16,South East,4,White
+40w3c1,40w3,3,Male,child,<=5,South East,4,White
+44w3c1,44w3,3,Male,child,6-16,East of England,3,White
+75w3c1,75w3,3,Male,child,6-16,West Midlands,3,White
+80w3c1,80w3,3,Female,child,6-16,Yorkshire and The Humber,3,White
+86w3c1,86w3,3,Female,child,6-16,East of England,3,White
+138w3c1,138w3,3,Male,child,<=5,East of England,2,White
+159w3c1,159w3,3,Female,child,6-16,North East,2,White
+160w3c1,160w3,3,Female,child,6-16,Yorkshire and The Humber,2,White
+176w3c1,176w3,3,Female,child,6-16,North West,5,White
+184w3c1,184w3,3,Female,child,6-16,South East,2,White
+198w3c1,198w3,3,Male,child,6-16,London,4,Mixed/ multiple ethnic background
+205w3c1,205w3,3,Male,child,6-16,West Midlands,5,White
+206w3c1,206w3,3,Male,child,6-16,East Midlands,2,White
+213w3c1,213w3,3,Male,child,6-16,South West,2,White
+214w3c1,214w3,3,Female,child,6-16,London,3,White
+243w3c1,243w3,3,Female,child,<=5,North West,3,White
+256w3c1,256w3,3,Male,child,<=5,South East,3,White
+272w3c1,272w3,3,Female,child,6-16,South East,5,White
+279w3c1,279w3,3,Male,child,<=5,London,4,Mixed/ multiple ethnic background
+298w3c1,298w3,3,Female,child,6-16,South East,5,White
+324w3c1,324w3,3,Female,child,<=5,London,2,Mixed/ multiple ethnic background
+325w3c1,325w3,3,Male,child,6-16,North West,2,White
+331w3c1,331w3,3,Male,child,6-16,East Midlands,1,White
+24w3c2,24w3,3,Male,child,<=5,West Midlands,1,White
+29w3c2,29w3,3,Male,child,6-16,South East,4,White
+40w3c2,40w3,3,Female,child,<=5,South East,4,White
+75w3c2,75w3,3,Male,child,6-16,West Midlands,3,White
+80w3c2,80w3,3,Male,child,<=5,Yorkshire and The Humber,3,White
+86w3c2,86w3,3,Female,child,6-16,East of England,3,White
+138w3c2,138w3,3,Female,child,<=5,East of England,2,White
+160w3c2,160w3,3,Male,child,6-16,Yorkshire and The Humber,2,White
+176w3c2,176w3,3,Female,child,<=5,North West,5,White
+184w3c2,184w3,3,Male,child,6-16,South East,2,White
+198w3c2,198w3,3,Male,child,6-16,London,4,Mixed/ multiple ethnic background
+205w3c2,205w3,3,Female,child,6-16,West Midlands,5,White
+214w3c2,214w3,3,Male,child,6-16,London,3,White
+256w3c2,256w3,3,Male,child,<=5,South East,3,White
+279w3c2,279w3,3,Male,child,<=5,London,4,Mixed/ multiple ethnic background
+325w3c2,325w3,3,Female,child,6-16,North West,2,White
+80w3c3,80w3,3,Female,child,<=5,Yorkshire and The Humber,3,White
+176w3c3,176w3,3,Female,child,<=5,North West,5,White
+214w3c3,214w3,3,Female,child,6-16,London,3,White
+325w3c3,325w3,3,Female,child,6-16,North West,2,White
+2w4a1,2w4,4,Female,adult,56-70,South West,4,White
+4w4a1,4w4,4,Female,adult,56-70,North West,3,White
+5w4a1,5w4,4,Female,adult,17-35,North West,1,Prefer not to say
+6w4a1,6w4,4,Male,adult,36-55,East Midlands,3,White
+7w4a1,7w4,4,Female,adult,17-35,West Midlands,2,White
+8w4a1,8w4,4,Male,adult,>70,South East,4,White
+9w4a1,9w4,4,Female,adult,56-70,North West,5,White
+10w4a1,10w4,4,Female,adult,36-55,North West,2,White
+12w4a1,12w4,4,Male,adult,36-55,South East,5,White
+13w4a1,13w4,4,Female,adult,56-70,North East,1,White
+14w4a1,14w4,4,Female,adult,NA,Yorkshire and The Humber,2,White
+15w4a1,15w4,4,Female,adult,56-70,East of England,3,White
+16w4a1,16w4,4,Female,adult,36-55,Yorkshire and The Humber,2,White
+17w4a1,17w4,4,Male,adult,56-70,Yorkshire and The Humber,2,White
+18w4a1,18w4,4,Female,adult,36-55,East of England,3,White
+19w4a1,19w4,4,Female,adult,56-70,South West,3,White
+21w4a1,21w4,4,Female,adult,56-70,London,5,White
+22w4a1,22w4,4,Female,adult,56-70,London,3,White
+23w4a1,23w4,4,Female,adult,36-55,South East,4,White
+24w4a1,24w4,4,Female,adult,56-70,South East,5,White
+25w4a1,25w4,4,Female,adult,>70,North East,3,White
+26w4a1,26w4,4,Male,adult,>70,London,2,White
+27w4a1,27w4,4,Male,adult,36-55,South East,4,White
+28w4a1,28w4,4,Female,adult,56-70,East of England,5,White
+29w4a1,29w4,4,Female,adult,36-55,South East,3,White
+30w4a1,30w4,4,Female,adult,36-55,East of England,5,White
+31w4a1,31w4,4,Female,adult,56-70,North East,1,White
+34w4a1,34w4,4,Male,adult,56-70,East of England,3,White
+36w4a1,36w4,4,Female,adult,56-70,East Midlands,3,White
+37w4a1,37w4,4,Male,adult,56-70,West Midlands,3,White
+38w4a1,38w4,4,Female,adult,>70,South West,3,White
+39w4a1,39w4,4,Male,adult,56-70,East of England,2,White
+40w4a1,40w4,4,Male,adult,56-70,South East,3,White
+41w4a1,41w4,4,Female,adult,17-35,East of England,4,White
+42w4a1,42w4,4,Female,adult,>70,London,2,White
+43w4a1,43w4,4,Female,adult,56-70,North East,5,White
+46w4a1,46w4,4,Male,adult,56-70,South East,3,White
+47w4a1,47w4,4,Female,adult,56-70,South East,3,White
+48w4a1,48w4,4,Male,adult,56-70,North West,4,White
+49w4a1,49w4,4,Female,adult,17-35,South East,3,White
+50w4a1,50w4,4,Female,adult,>70,South East,5,White
+52w4a1,52w4,4,Female,adult,56-70,South East,1,White
+53w4a1,53w4,4,Female,adult,36-55,South East,2,Asian
+56w4a1,56w4,4,Female,adult,56-70,South East,4,White
+57w4a1,57w4,4,Male,adult,56-70,South East,2,White
+58w4a1,58w4,4,Female,adult,36-55,South East,2,White
+59w4a1,59w4,4,Female,adult,36-55,South West,5,White
+60w4a1,60w4,4,Male,adult,56-70,East Midlands,4,White
+61w4a1,61w4,4,Male,adult,36-55,East Midlands,4,Prefer not to say
+62w4a1,62w4,4,Female,adult,56-70,East Midlands,4,White
+63w4a1,63w4,4,Female,adult,56-70,South East,3,White
+66w4a1,66w4,4,Female,adult,36-55,Yorkshire and The Humber,4,White
+67w4a1,67w4,4,Female,adult,56-70,East of England,3,White
+68w4a1,68w4,4,Male,adult,17-35,Yorkshire and The Humber,4,White
+69w4a1,69w4,4,Male,adult,56-70,South West,5,White
+70w4a1,70w4,4,Male,adult,>70,East of England,3,White
+71w4a1,71w4,4,Female,adult,>70,South East,4,White
+72w4a1,72w4,4,Female,adult,56-70,East Midlands,5,White
+73w4a1,73w4,4,Female,adult,36-55,South East,5,White
+74w4a1,74w4,4,Male,adult,56-70,East of England,2,White
+75w4a1,75w4,4,Female,adult,>70,Yorkshire and The Humber,3,White
+76w4a1,76w4,4,Male,adult,17-35,West Midlands,5,White
+78w4a1,78w4,4,Female,adult,56-70,South East,2,White
+79w4a1,79w4,4,Male,adult,36-55,North West,1,White
+81w4a1,81w4,4,Female,adult,56-70,East of England,4,White
+82w4a1,82w4,4,Female,adult,56-70,North West,5,White
+83w4a1,83w4,4,Male,adult,>70,North West,5,White
+84w4a1,84w4,4,Male,adult,56-70,North West,1,White
+86w4a1,86w4,4,Male,adult,56-70,East of England,2,White
+87w4a1,87w4,4,Female,adult,36-55,West Midlands,5,Asian
+88w4a1,88w4,4,Female,adult,56-70,East Midlands,4,White
+89w4a1,89w4,4,Female,adult,36-55,Yorkshire and The Humber,4,White
+91w4a1,91w4,4,Male,adult,36-55,East of England,3,White
+92w4a1,92w4,4,Male,adult,36-55,East of England,3,White
+93w4a1,93w4,4,Female,adult,36-55,North East,2,White
+94w4a1,94w4,4,Female,adult,56-70,West Midlands,3,White
+95w4a1,95w4,4,Female,adult,17-35,South East,4,White
+97w4a1,97w4,4,Female,adult,>70,South West,4,White
+98w4a1,98w4,4,Male,adult,>70,South West,3,White
+99w4a1,99w4,4,Female,adult,36-55,North East,3,White
+100w4a1,100w4,4,Male,adult,56-70,North East,5,White
+101w4a1,101w4,4,Female,adult,>70,South West,5,White
+102w4a1,102w4,4,Female,adult,56-70,Yorkshire and The Humber,1,White
+103w4a1,103w4,4,Male,adult,>70,East of England,4,White
+104w4a1,104w4,4,Female,adult,56-70,Yorkshire and The Humber,5,White
+105w4a1,105w4,4,Male,adult,>70,South East,5,White
+106w4a1,106w4,4,Female,adult,36-55,West Midlands,1,Black
+110w4a1,110w4,4,Male,adult,56-70,East Midlands,5,White
+112w4a1,112w4,4,Male,adult,36-55,South East,5,White
+113w4a1,113w4,4,Male,adult,17-35,East of England,1,White
+114w4a1,114w4,4,Male,adult,>70,South East,3,White
+116w4a1,116w4,4,Female,adult,17-35,North East,1,Black
+117w4a1,117w4,4,Female,adult,56-70,North West,4,White
+119w4a1,119w4,4,Male,adult,56-70,North West,4,White
+121w4a1,121w4,4,Female,adult,36-55,South East,3,White
+122w4a1,122w4,4,Male,adult,56-70,East of England,3,White
+123w4a1,123w4,4,Female,adult,36-55,South East,1,White
+124w4a1,124w4,4,Female,adult,56-70,North East,2,White
+125w4a1,125w4,4,Male,adult,17-35,London,2,Black
+126w4a1,126w4,4,Female,adult,56-70,East Midlands,5,White
+127w4a1,127w4,4,Female,adult,56-70,South East,5,White
+128w4a1,128w4,4,Female,adult,36-55,South East,1,White
+129w4a1,129w4,4,Male,adult,56-70,West Midlands,1,White
+130w4a1,130w4,4,Female,adult,36-55,East of England,2,White
+131w4a1,131w4,4,Female,adult,56-70,East of England,2,White
+132w4a1,132w4,4,Female,adult,56-70,South East,3,White
+134w4a1,134w4,4,Male,adult,>70,East of England,4,White
+135w4a1,135w4,4,Male,adult,36-55,East of England,3,White
+136w4a1,136w4,4,Female,adult,56-70,East of England,5,White
+137w4a1,137w4,4,Male,adult,36-55,North West,5,White
+138w4a1,138w4,4,Female,adult,56-70,Yorkshire and The Humber,5,White
+139w4a1,139w4,4,Female,adult,36-55,Yorkshire and The Humber,5,White
+140w4a1,140w4,4,Female,adult,>70,West Midlands,3,White
+141w4a1,141w4,4,Female,adult,56-70,London,3,White
+142w4a1,142w4,4,Female,adult,56-70,East Midlands,3,White
+143w4a1,143w4,4,Female,adult,56-70,North West,3,White
+145w4a1,145w4,4,Male,adult,56-70,North West,3,White
+146w4a1,146w4,4,Female,adult,56-70,South West,2,White
+147w4a1,147w4,4,Female,adult,36-55,South East,1,White
+148w4a1,148w4,4,Male,adult,>70,North West,3,White
+149w4a1,149w4,4,Female,adult,56-70,East Midlands,4,White
+150w4a1,150w4,4,Female,adult,56-70,South East,5,White
+151w4a1,151w4,4,Female,adult,56-70,North East,5,White
+153w4a1,153w4,4,Female,adult,56-70,North West,4,White
+154w4a1,154w4,4,Female,adult,56-70,South West,4,White
+159w4a1,159w4,4,Female,adult,56-70,London,4,White
+160w4a1,160w4,4,Male,adult,36-55,East of England,4,White
+161w4a1,161w4,4,Male,adult,56-70,London,4,White
+162w4a1,162w4,4,Female,adult,56-70,East of England,3,White
+163w4a1,163w4,4,Female,adult,>70,East Midlands,4,White
+164w4a1,164w4,4,Female,adult,>70,South West,5,White
+166w4a1,166w4,4,Male,adult,17-35,East of England,3,White
+170w4a1,170w4,4,Female,adult,56-70,North East,5,White
+171w4a1,171w4,4,Female,adult,36-55,London,2,White
+172w4a1,172w4,4,Male,adult,56-70,South West,5,White
+173w4a1,173w4,4,Female,adult,36-55,East of England,5,White
+174w4a1,174w4,4,Male,adult,>70,East Midlands,5,White
+175w4a1,175w4,4,Female,adult,17-35,South East,3,White
+176w4a1,176w4,4,Male,adult,17-35,South East,3,White
+178w4a1,178w4,4,Female,adult,36-55,South East,5,White
+179w4a1,179w4,4,Female,adult,56-70,North East,4,White
+180w4a1,180w4,4,Male,adult,>70,West Midlands,3,White
+181w4a1,181w4,4,Female,adult,56-70,East of England,5,White
+182w4a1,182w4,4,Female,adult,56-70,South East,5,White
+183w4a1,183w4,4,Female,adult,56-70,South East,5,White
+184w4a1,184w4,4,Female,adult,17-35,West Midlands,5,Mixed/ multiple ethnic background
+187w4a1,187w4,4,Female,adult,56-70,East of England,3,White
+188w4a1,188w4,4,Female,adult,17-35,Yorkshire and The Humber,1,Mixed/ multiple ethnic background
+189w4a1,189w4,4,Female,adult,36-55,South West,4,White
+190w4a1,190w4,4,Male,adult,56-70,South West,3,White
+195w4a1,195w4,4,Female,adult,>70,South West,3,White
+196w4a1,196w4,4,Female,adult,36-55,North West,1,Asian
+197w4a1,197w4,4,Male,adult,36-55,London,2,White
+199w4a1,199w4,4,Female,adult,36-55,East Midlands,3,White
+200w4a1,200w4,4,Female,adult,17-35,London,1,White
+201w4a1,201w4,4,Male,adult,56-70,North East,4,White
+202w4a1,202w4,4,Male,adult,56-70,London,5,White
+203w4a1,203w4,4,Female,adult,56-70,Yorkshire and The Humber,5,White
+204w4a1,204w4,4,Male,adult,>70,Yorkshire and The Humber,5,White
+205w4a1,205w4,4,Female,adult,>70,Yorkshire and The Humber,5,White
+206w4a1,206w4,4,Female,adult,36-55,East of England,4,White
+207w4a1,207w4,4,Male,adult,17-35,South West,3,White
+208w4a1,208w4,4,Male,adult,17-35,North West,4,White
+210w4a1,210w4,4,Male,adult,56-70,Yorkshire and The Humber,4,White
+211w4a1,211w4,4,Male,adult,>70,West Midlands,5,White
+212w4a1,212w4,4,Male,adult,36-55,South West,2,White
+213w4a1,213w4,4,Female,adult,>70,West Midlands,5,White
+214w4a1,214w4,4,Male,adult,56-70,East of England,4,White
+215w4a1,215w4,4,Female,adult,56-70,South East,3,White
+216w4a1,216w4,4,Male,adult,56-70,West Midlands,5,White
+217w4a1,217w4,4,Male,adult,56-70,West Midlands,5,White
+218w4a1,218w4,4,Male,adult,>70,South West,3,White
+219w4a1,219w4,4,Female,adult,36-55,South East,2,White
+220w4a1,220w4,4,Female,adult,56-70,South East,5,White
+221w4a1,221w4,4,Female,adult,36-55,East of England,4,White
+222w4a1,222w4,4,Male,adult,>70,South West,2,White
+223w4a1,223w4,4,Female,adult,36-55,East of England,3,White
+224w4a1,224w4,4,Female,adult,56-70,North East,3,White
+226w4a1,226w4,4,Male,adult,56-70,East of England,4,White
+227w4a1,227w4,4,Female,adult,56-70,East of England,4,White
+228w4a1,228w4,4,Female,adult,56-70,South East,5,White
+229w4a1,229w4,4,Female,adult,36-55,East Midlands,4,White
+230w4a1,230w4,4,Female,adult,56-70,East of England,3,White
+233w4a1,233w4,4,Male,adult,17-35,West Midlands,5,White
+234w4a1,234w4,4,Female,adult,56-70,South East,4,White
+235w4a1,235w4,4,Male,adult,36-55,East of England,3,White
+236w4a1,236w4,4,Female,adult,36-55,Yorkshire and The Humber,1,White
+237w4a1,237w4,4,Female,adult,56-70,West Midlands,3,White
+238w4a1,238w4,4,Male,adult,56-70,Yorkshire and The Humber,1,White
+239w4a1,239w4,4,Male,adult,>70,South West,4,White
+241w4a1,241w4,4,Female,adult,56-70,East Midlands,4,White
+242w4a1,242w4,4,Female,adult,36-55,North East,1,White
+244w4a1,244w4,4,Female,adult,36-55,London,2,Black
+245w4a1,245w4,4,Male,adult,36-55,North East,1,White
+246w4a1,246w4,4,Female,adult,36-55,North East,5,White
+248w4a1,248w4,4,Female,adult,56-70,North East,4,White
+249w4a1,249w4,4,Male,adult,56-70,North East,4,White
+250w4a1,250w4,4,Male,adult,56-70,South West,4,White
+251w4a1,251w4,4,Female,adult,56-70,South West,4,White
+253w4a1,253w4,4,Male,adult,NA,South West,5,White
+254w4a1,254w4,4,Male,adult,56-70,South East,1,White
+255w4a1,255w4,4,Female,adult,>70,South East,4,White
+256w4a1,256w4,4,Female,adult,>70,South West,5,White
+257w4a1,257w4,4,Female,adult,56-70,West Midlands,3,White
+258w4a1,258w4,4,Female,adult,56-70,South East,4,White
+259w4a1,259w4,4,Female,adult,>70,South East,4,White
+260w4a1,260w4,4,Female,adult,17-35,London,3,White
+261w4a1,261w4,4,Female,adult,56-70,North East,3,White
+262w4a1,262w4,4,Male,adult,56-70,South East,5,White
+264w4a1,264w4,4,Male,adult,>70,South East,4,White
+267w4a1,267w4,4,Male,adult,36-55,East of England,4,White
+268w4a1,268w4,4,Female,adult,56-70,Yorkshire and The Humber,5,White
+270w4a1,270w4,4,Female,adult,56-70,South West,3,White
+271w4a1,271w4,4,Male,adult,17-35,North East,1,White
+272w4a1,272w4,4,Male,adult,56-70,South West,3,White
+273w4a1,273w4,4,Male,adult,56-70,South East,4,White
+274w4a1,274w4,4,Female,adult,36-55,North West,2,White
+275w4a1,275w4,4,Female,adult,56-70,South East,5,White
+276w4a1,276w4,4,Male,adult,56-70,NA,NA,White
+278w4a1,278w4,4,Female,adult,56-70,North West,2,White
+279w4a1,279w4,4,Female,adult,36-55,North West,1,White
+280w4a1,280w4,4,Male,adult,56-70,South East,5,White
+281w4a1,281w4,4,Male,adult,36-55,North West,2,White
+282w4a1,282w4,4,Male,adult,56-70,South East,3,White
+283w4a1,283w4,4,Male,adult,>70,NA,NA,White
+284w4a1,284w4,4,Female,adult,>70,Yorkshire and The Humber,4,White
+285w4a1,285w4,4,Female,adult,56-70,South West,3,White
+286w4a1,286w4,4,Male,adult,56-70,South West,3,White
+287w4a1,287w4,4,Male,adult,17-35,East of England,3,White
+288w4a1,288w4,4,Male,adult,56-70,South East,3,Black
+289w4a1,289w4,4,Female,adult,36-55,East of England,3,White
+290w4a1,290w4,4,Female,adult,36-55,East Midlands,3,White
+293w4a1,293w4,4,Female,adult,17-35,South East,4,White
+294w4a1,294w4,4,Female,adult,56-70,West Midlands,5,White
+295w4a1,295w4,4,Female,adult,36-55,East of England,4,White
+296w4a1,296w4,4,Female,adult,36-55,East Midlands,2,White
+297w4a1,297w4,4,Male,adult,56-70,South West,4,White
+298w4a1,298w4,4,Female,adult,56-70,South West,4,White
+301w4a1,301w4,4,Female,adult,56-70,South East,5,White
+302w4a1,302w4,4,Female,adult,56-70,London,4,White
+303w4a1,303w4,4,Male,adult,56-70,West Midlands,1,White
+304w4a1,304w4,4,Female,adult,>70,East of England,5,White
+305w4a1,305w4,4,Female,adult,>70,West Midlands,1,White
+306w4a1,306w4,4,Male,adult,56-70,East of England,2,White
+307w4a1,307w4,4,Female,adult,56-70,East of England,2,White
+308w4a1,308w4,4,Male,adult,17-35,North West,5,White
+309w4a1,309w4,4,Male,adult,>70,South East,5,White
+310w4a1,310w4,4,Female,adult,>70,South East,5,White
+312w4a1,312w4,4,Female,adult,56-70,West Midlands,2,White
+313w4a1,313w4,4,Female,adult,36-55,Yorkshire and The Humber,5,White
+316w4a1,316w4,4,Female,adult,36-55,South East,4,White
+318w4a1,318w4,4,Female,adult,36-55,West Midlands,1,White
+319w4a1,319w4,4,Female,adult,>70,North West,1,White
+320w4a1,320w4,4,Female,adult,17-35,South East,1,White
+324w4a1,324w4,4,Male,adult,56-70,East of England,5,White
+325w4a1,325w4,4,Female,adult,>70,London,3,White
+326w4a1,326w4,4,Male,adult,56-70,West Midlands,3,White
+327w4a1,327w4,4,Female,adult,56-70,North East,3,White
+328w4a1,328w4,4,Male,adult,36-55,South West,3,White
+33w4a1,33w4,4,Male,adult,>70,South East,5,White
+85w4a1,85w4,4,Male,adult,17-35,London,3,White
+16w4c1,16w4,4,Male,child,6-16,Yorkshire and The Humber,2,White
+18w4c1,18w4,4,Female,child,6-16,East of England,3,White
+23w4c1,23w4,4,Male,child,6-16,South East,4,White
+29w4c1,29w4,4,Female,child,6-16,South East,3,White
+49w4c1,49w4,4,Male,child,6-16,South East,3,White
+53w4c1,53w4,4,Female,child,6-16,South East,2,Asian
+59w4c1,59w4,4,Male,child,6-16,South West,5,White
+87w4c1,87w4,4,Female,child,6-16,West Midlands,5,Any other ethnic group
+130w4c1,130w4,4,Female,child,6-16,East of England,2,White
+139w4c1,139w4,4,Female,child,6-16,Yorkshire and The Humber,5,White
+147w4c1,147w4,4,Female,child,6-16,South East,1,White
+160w4c1,160w4,4,Female,child,6-16,East of England,4,Mixed/ multiple ethnic background
+171w4c1,171w4,4,Unspecified or prefer not to say,child,6-16,London,2,White
+178w4c1,178w4,4,Female,child,6-16,South East,5,White
+184w4c1,184w4,4,Female,child,6-16,West Midlands,5,Mixed/ multiple ethnic background
+199w4c1,199w4,4,Female,child,<=5,East Midlands,3,White
+200w4c1,200w4,4,Female,child,<=5,London,1,White
+206w4c1,206w4,4,Female,child,6-16,East of England,4,White
+216w4c1,216w4,4,Female,child,6-16,West Midlands,5,White
+219w4c1,219w4,4,Male,child,6-16,South East,2,White
+236w4c1,236w4,4,Female,child,6-16,Yorkshire and The Humber,1,White
+274w4c1,274w4,4,Female,child,6-16,North West,2,White
+279w4c1,279w4,4,Female,child,6-16,North West,1,White
+296w4c1,296w4,4,Female,child,6-16,East Midlands,2,White
+316w4c1,316w4,4,Male,child,<=5,South East,4,White
+23w4c2,23w4,4,Male,child,6-16,South East,4,White
+29w4c2,29w4,4,Female,child,<=5,South East,3,White
+53w4c2,53w4,4,Female,child,6-16,South East,2,Asian
+87w4c2,87w4,4,Male,child,6-16,West Midlands,5,Any other ethnic group
+130w4c2,130w4,4,Female,child,6-16,East of England,2,White
+147w4c2,147w4,4,Male,child,<=5,South East,1,White
+178w4c2,178w4,4,Female,child,6-16,South East,5,White
+184w4c2,184w4,4,Female,child,6-16,West Midlands,5,Mixed/ multiple ethnic background
+216w4c2,216w4,4,Male,child,6-16,West Midlands,5,White
+219w4c2,219w4,4,Male,child,6-16,South East,2,White
+279w4c2,279w4,4,Male,child,<=5,North West,1,White
+53w4c3,53w4,4,Male,child,6-16,South East,2,Asian
+87w4c3,87w4,4,Female,child,<=5,West Midlands,5,Any other ethnic group
+178w4c3,178w4,4,Female,child,6-16,South East,5,White
